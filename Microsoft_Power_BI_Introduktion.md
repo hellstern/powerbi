@@ -12,7 +12,7 @@ For at få det optimale ud af dette seminar skal du have følgende:
 
 Power BI Desktop
 Du kan hente Microsoft Power BI Desktop på denne side:
-https://aka.ms/pbiSingleInstaller 
+<a href="https://aka.ms/pbiSingleInstaller" target="_blank">https://aka.ms/pbiSingleInstaller</a> 
 System krav er følgende:
 Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2
 Power BI Desktop kan hentes i en 32-bit eller en 64-bit version.
@@ -177,3 +177,23 @@ Når du har installeret Power BI Desktop, kan du oprette forbindelse til mange f
 
 Du skal bare vælge – **Start – Hent data**
 
+### Eksempel fra Access
+Hvis dine data er placeret i en database, er det meget nemt at oprette forbindelse til denne og arbejde med disse data.
+I dette eksempel er det en Access database, Northwind, men det kan være næsten en hvilken som helst database.
+
+## Microsoft eksempler
+Microsoft har oprettet nogle forskellige færdige eksempler på, hvad Power BI kan.
+Disse eksempler kan hentes via: <a href="https://docs.microsoft.com/en-us/power-bi/sample-datasets" target="_blank">https://docs.microsoft.com/en-us/power-bi/sample-datasets</a>
+Eksempel filerne findes både som Excel filer og som Microsoft Power BI Desktop filer – PBIX
+Disse eksempler er rigtig gode som inspiration til, hvordan du kan opbygge et dashboard.
+
+### Sales and Marketing Sample
+Findes i Excel og PBIX
+•	Sales and Marketing Sample.xlsx
+•	Sales Marketing Sample PBIX.pbix
+
+### Power BI Desktop
+![Desktop](image/Microsoft%20Eksempel%20Desktop.jpg)
+
+### Excel
+![Excel](image/Microsoft%20Eksempel%20Excel.jpg)
